@@ -52,7 +52,7 @@ If you're new to Flutter, check out these useful resources:
 Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
 
 ## License
-Copyright (c) 2024-2026 **Amr Ahmed**. All Rights Reserved.
+Copyright © 2024-2026 **Amr Ahmed**. All Rights Reserved.
 
 ---
 Made with ❤️ using Flutter.
