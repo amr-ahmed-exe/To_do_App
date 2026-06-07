@@ -52,7 +52,7 @@ If you're new to Flutter, check out these useful resources:
 Contributions are welcome! Feel free to submit issues or pull requests to improve the app.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+Copyright (c) 2024-2026 **Amr Ahmed**. All Rights Reserved.
 
 ---
 Made with ❤️ using Flutter.
